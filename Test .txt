@@ -4,3 +4,5 @@ File test
 Thay đổi nội dung
 
 Test noi dung máy A
+
+Xung dot may lan 2 may A
