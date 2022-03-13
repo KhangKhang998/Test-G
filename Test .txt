@@ -6,3 +6,4 @@ Thay đổi nội dung
 Test noi dung máy A
 Thay doi noi dung may B
 
+Xung dot lan 2 may B
