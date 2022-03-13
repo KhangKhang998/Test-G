@@ -3,4 +3,6 @@ File test
 
 Thay đổi nội dung
 
+Test noi dung máy A
 Thay doi noi dung may B
+
