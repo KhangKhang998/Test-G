@@ -2,3 +2,5 @@ File test
 
 
 Thay đổi nội dung
+
+Test noi dung máy A
